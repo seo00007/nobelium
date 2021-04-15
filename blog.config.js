@@ -2,7 +2,7 @@ const BLOG = {
   title: 'ssss',
   author: '55555',
   email: '555',
-  link: 'Nobelium-jrzp19pmo-seo00007.vercel.app',
+  link: 'https://nobelium-navy.vercel.app',
   description: 'This gonna be an awesome website.',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
