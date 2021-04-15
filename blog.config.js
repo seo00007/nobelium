@@ -1,9 +1,10 @@
 const BLOG = {
-  title: 'ssss',
-  author: '55555',
+  title: 'Snap-Design',
+  author: 'wayne',
   email: '555',
-  link: 'https://nobelium-navy.vercel.app',
+  link: 'https://blogblog-eta.vercel.app',
   description: 'This gonna be an awesome website.',
+  lang: 'zh-cn'
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
